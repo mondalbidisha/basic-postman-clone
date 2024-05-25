@@ -1,7 +1,7 @@
 // import "bootstrap"
 // import "bootstrap/dist/css/bootstrap.min.css"
 import './node_modules/bootstrap/dist/css/bootstrap.min.css';
-import axios from "axios"
+// import axios from "axios"
 import prettyBytes from "pretty-bytes"
 import setupEditors from "./setupEditor"
 
